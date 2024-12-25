@@ -2,7 +2,7 @@
 //  NewsTableViewCell.swift
 //  Final project
 //
-//  Created by yunus on 21.12.2024.
+//  Created by Kaisa on 21.12.2024.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  OnboardingViewController.swift
 //  Final project
 //
-//  Created by yunus on 16.12.2024.
+//  Created by Kaisa on 16.12.2024.
 //
 
 import UIKit
